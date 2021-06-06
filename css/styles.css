@@ -762,3 +762,21 @@ align-items: center;
 .block-plans .grid{
     gap: 8rem 4rem;
 }
+
+.feature{
+    margin-top: 5rem;
+}
+
+/* Feature */
+
+.feature{
+    gap: 4rem 2rem;
+}
+
+.feature__img > img{
+    width: 100%;
+}
+
+.feature__heading{
+    padding: 1rem 0;
+}
