@@ -441,6 +441,10 @@ a{
     line-height: 1.3;
 }
 
+.quote__text{
+    font-size: 2rem;
+}
+
 .quote__text::before{
     content: open-quote;
 }
@@ -751,6 +755,10 @@ align-items: center;
     border: 0;
     margin: 4rem auto;
     max-width: 670px;
+}
+
+.block-domain p{
+    font-size: 2rem;
 }
 
 .block-domain__prices{
